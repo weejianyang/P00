@@ -49,7 +49,7 @@ public class CalculatorTest {
 		assertEquals(actual, expected);
 	}
 	
-	@Test
+	@Test // TEST
 	public final void testMultiple() {
 		int a = 30;
 		int b = 30;
